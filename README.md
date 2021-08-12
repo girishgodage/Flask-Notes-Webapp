@@ -2,7 +2,7 @@
 
 ## Viewing The Live App
 
-Go to [Live]("https://giri-flask-notes-app.herokuapp.com/")
+Go to Live : "https://giri-flask-notes-app.herokuapp.com"
 
 username:girishgodage@gmail.com
 password:1234567
