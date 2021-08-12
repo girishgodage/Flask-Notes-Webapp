@@ -1,4 +1,11 @@
-# Flask Web App Tutorial
+# Flask Notes Web App 
+
+## Viewing The Live App
+
+Go to [Live]("https://giri-flask-notes-app.herokuapp.com/")
+
+username:girishgodage@gmail.com
+password:1234567
 
 ## Setup & Installtion
 
